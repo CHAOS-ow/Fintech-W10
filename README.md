@@ -1,7 +1,7 @@
 
 # Project Title: Unsupervised Learning - Crypto clustering
 
-We will combine your financial Python programming skills with the new unsupervised learning skills to clusters cryptocurrencies by their performance in different time periods
+We will use Python programming skills with unsupervised learning to clusters cryptocurrencies by their performance in different time periods
 
 ---
 
