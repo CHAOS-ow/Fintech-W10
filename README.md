@@ -13,7 +13,7 @@ The project uses python 3.7 with the following packages:
 
 * [hvplot](https://hvplot.holoviz.org/) - Provides an alternative for the static plotting API provided by Pandas and other libraries
 
-* [path](https://docs.python.org/3/library/pathlib.html) -  Pffers classes representing filesystem paths with semantics appropriate for different operating systems
+* [path](https://docs.python.org/3/library/pathlib.html) -  Offers classes representing filesystem paths with semantics appropriate for different operating systems
 
 * [sklearn](https://scikit-learn.org/stable/) - Tool for machine learning in pythin including Kmeans (clustering), PCA (Linear dimensionality reduction), StandardScalar (standardizing data)
 
@@ -44,7 +44,6 @@ To run the financial tool program, simply clone the repository, and go through t
 ## Contributors
 
 Jung Kim
-
 
 
 ---
